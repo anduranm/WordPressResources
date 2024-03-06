@@ -1,0 +1,3 @@
+when ports didn't work propertly  
+>`net stop winnat`
+>`net start winnat`

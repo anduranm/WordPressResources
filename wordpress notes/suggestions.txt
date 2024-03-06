@@ -1,0 +1,18 @@
+Gestion de contenido, articulos, landing pages, instalacion modulos / plugins , instalacion y mantenimiento de temas 
+
+rutina de respaldo, respaldo de base de datos, y mantener el codigo controlado por versiones en repositioros seguro 
+
+no instalar pluggins de dudoza procedencia, solo revisado por wordpress
+reviso pluggin en pagina oficial y cuantas instalaciones tiene 
+
+
+
+
+
+
+nota aprende hacer bloques con wordpress react
+
+
+  para Seo plugin yoast
+
+  tabindex
